@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AidlClient.iml" filepath="$PROJECT_DIR$/AidlClient.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aidlclient/AidlClient.aidlclient.iml" filepath="$PROJECT_DIR$/.idea/modules/aidlclient/AidlClient.aidlclient.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aidlserver/AidlClient.aidlserver.iml" filepath="$PROJECT_DIR$/.idea/modules/aidlserver/AidlClient.aidlserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aidl.iml" filepath="$PROJECT_DIR$/.idea/modules/Aidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aidlclient/Aidl.aidlclient.iml" filepath="$PROJECT_DIR$/.idea/modules/aidlclient/Aidl.aidlclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aidlclient/Aidl.aidlclient.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/aidlclient/Aidl.aidlclient.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aidlclient/Aidl.aidlclient.main.iml" filepath="$PROJECT_DIR$/.idea/modules/aidlclient/Aidl.aidlclient.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aidlclient/Aidl.aidlclient.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/aidlclient/Aidl.aidlclient.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aidlserver/Aidl.aidlserver.iml" filepath="$PROJECT_DIR$/.idea/modules/aidlserver/Aidl.aidlserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aidlserver/Aidl.aidlserver.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/aidlserver/Aidl.aidlserver.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aidlserver/Aidl.aidlserver.main.iml" filepath="$PROJECT_DIR$/.idea/modules/aidlserver/Aidl.aidlserver.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aidlserver/Aidl.aidlserver.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/aidlserver/Aidl.aidlserver.unitTest.iml" />
     </modules>
   </component>
 </project>

@@ -15,9 +15,6 @@ import java.util.HashMap;
  */
 public class CheckAnagram extends Service {
 
-    //Aidl stub
-//    private AidlImp aidlImp = new AidlImp();
-
     //Parent string
     private String letters = "AdnBndAndBdaBn";
 
@@ -35,7 +32,6 @@ public class CheckAnagram extends Service {
         public int checkAnagram(String childString) throws RemoteException {
             Log.e("Int ", occurrence(letters, childString)+"");
             return occurrence(letters, childString);
-//            return 0;
         }
     };
 

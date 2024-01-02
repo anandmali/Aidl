@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AidlClient</string>
+    <string name="check_occurrence_of_dan">Check occurrence of \'dan\'</string>
+    <string name="bind_with_server_application">Bind with server application</string>
 </resources>
